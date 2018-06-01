@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Emanuel",
+            "apellido": "Ferreyra",
+            "email": "buscandoaemo@gmail.com",
+            "password": "$2y$10$IMKtdnme0lYSqVQgJTu6GuY9rnS8a0fW0nzIhT7sqpgUfzuUqzrrm",
+            "domicilio": "Calle falsa 123",
+            "localidad": "Ciudad Autonoma de Buenos Aires",
+            "id": 1,
+            "imagen": ".\/img\/avatar\/perfil_1523182603.jpg"
+        },
+        {
+            "nombre": "Emanuel",
+            "apellido": "Rolando",
+            "email": "test@test.com.ar",
+            "password": "$2y$10$0GTJSfQfEzcw6\/e9xl9BsOuTPrfgbgvE38wdeQ074.0tQ4x0Q.BHK",
+            "domicilio": "Sarmiento 2172 9\u00ba 44, Entre Uriburu y Junin",
+            "localidad": "Ciudad Autonoma de Buenos Aires",
+            "id": 2,
+            "imagen": ".\/img\/avatar\/perfil_1526758390.jpeg"
+        },
+        {
+            "nombre": "Emanuel",
+            "apellido": "pepe",
+            "email": "test@test.com",
+            "password": "$2y$10$QJiezlSCaMwmLUdHkvhv0.RA1LpvPYQUxxKt5fZRAkXjrFMGu69tK",
+            "domicilio": "Sarmiento 2172 9\u00ba 44, Entre Uriburu y Junin",
+            "localidad": "Ciudad Autonoma de Buenos Aires",
+            "id": 3,
+            "imagen": ".\/img\/avatar\/perfil_1527891770.jpeg"
+        }
+    ]
+}
